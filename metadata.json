@@ -1,0 +1,5 @@
+{
+  "name": "Username Availability Checker",
+  "description": "An application to find available usernames for social media platforms using AI-powered suggestions, supporting usernames from 3 to 7 characters long.",
+  "requestFramePermissions": []
+}
